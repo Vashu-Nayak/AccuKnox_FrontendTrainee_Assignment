@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone [<repository-url>](https://github.com/Vashu-Nayak/AccuKnox_FrontendTrainee_Assignment)
+   git clone https://github.com/Vashu-Nayak/AccuKnox_FrontendTrainee_Assignment
    cd dashboard-app
  2. **Install dependencies:**
 
