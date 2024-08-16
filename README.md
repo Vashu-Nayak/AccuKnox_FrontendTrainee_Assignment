@@ -53,7 +53,7 @@ SearchBar.jsx
 
 redux/: Contains Redux slice and store.
 
-dashboardSlice.jsx
+dashboardSlicer.jsx
 
 reducerStore.jsx
 
