@@ -55,7 +55,7 @@ redux/: Contains Redux slice and store.
 
 dashboardSlice.jsx
 
-store.jsx
+reducerStore.jsx
 
 main.jsx: Entry point of the application.
 
